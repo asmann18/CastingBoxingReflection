@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\bin\Debug\net6.0\Casting,Boxing.exe
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\bin\Debug\net6.0\Casting,Boxing.deps.json
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\bin\Debug\net6.0\Casting,Boxing.runtimeconfig.json
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\bin\Debug\net6.0\Casting,Boxing.dll
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\bin\Debug\net6.0\Casting,Boxing.pdb
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.dll
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\refint\Casting,Boxing.dll
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.pdb
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\Casting,Boxing.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Casting,Boxing\Casting,Boxing\obj\Debug\net6.0\ref\Casting,Boxing.dll
